@@ -8,7 +8,7 @@
 
 - 📫 Contact me on:
    - **Email:** denohrkoryr@gmail.com (to be updated soon!)
-   - **LinkedIn:** https://www.linkedin.com/in/denis-korir-3ab3a3313/
+   - **LinkedIn:** https://www.linkedin.com/in/denis-korir-3ab3a3313/ (to be updated soon!)
 
 - ⚡ Fun fact: I love gaming! In future I would like to make a simple webgame and maybe delve into the complex parts later on 😂😂😂
 
