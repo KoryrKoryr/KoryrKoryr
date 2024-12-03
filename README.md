@@ -10,7 +10,7 @@
    - **Email:** kibet.d.korir@gmail.com
    - **LinkedIn:** https://www.linkedin.com/in/denis-korir-3ab3a3313/
 
-- ⚡ Fun fact: I love gaming! In future I would like to make a simple webgame and maybe delve into the complex parts later on 😂😂😂
+- ⚡ Fun fact: I love gaming!
 
   **ABOUT**
   - I want to have fun coding while providing solutions to current world problems. Apart from that, being a fun loving person, I want to also create fun side projects.
