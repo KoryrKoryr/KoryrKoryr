@@ -7,8 +7,8 @@
 - 💞️ Collaboration: Being a novice in this field I want to collaborate alot to build upon my skills. I am eager to work on exciting and intuitive ideas and to help out others on their journey as well.
 
 - 📫 Contact me on:
-   - **Email:** denohrkoryr@gmail.com (to be updated soon!)
-   - **LinkedIn:** https://www.linkedin.com/in/denis-korir-3ab3a3313/ (to be updated soon!)
+   - **Email:** kibet.d.korir@gmail.com
+   - **LinkedIn:** https://www.linkedin.com/in/denis-korir-3ab3a3313/
 
 - ⚡ Fun fact: I love gaming! In future I would like to make a simple webgame and maybe delve into the complex parts later on 😂😂😂
 
