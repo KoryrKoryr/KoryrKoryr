@@ -2,7 +2,7 @@
 
 - 👀 I’m new to software development and programming in general. I love learning new things and try to have fun while doing it.
 
-- 🌱 I'm currently learning software development. I've been working on HTML, CSS, JavaScript, React, JSON, Python and Flask at a bootcamp in Moringa School.
+- 🌱 I've been working on HTML, CSS, JavaScript, React, JSON, Python and Flask at a bootcamp and I'm progressing to deepen my understanding.
 
 - 💞️ Collaboration: Being a novice in this field I want to collaborate alot to build upon my skills. I am eager to work on exciting and intuitive ideas and to help out others on their journey as well.
 
